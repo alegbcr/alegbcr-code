@@ -1,0 +1,9 @@
+.gallery__container--logos picture{
+    height: 120px;
+    width: 200px;
+    margin: 2rem;
+}
+
+.gallery__container--logos .gallery__logo{
+    max-width: 100%;
+}

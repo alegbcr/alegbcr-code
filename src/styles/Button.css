@@ -1,0 +1,4 @@
+.button-style-default {
+    padding: 5px 15px;
+    border-radius: var(--border-radius);
+}
